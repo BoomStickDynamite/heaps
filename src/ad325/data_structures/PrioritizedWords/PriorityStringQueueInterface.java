@@ -1,4 +1,4 @@
-package ad325.data_structures;
+package ad325.data_structures.PrioritizedWords;
 
 /**
  * This is a simplified interface for a priority queue. This will create
